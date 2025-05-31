@@ -16,6 +16,16 @@ Este repositório reúne meus exercícios de programação e pequenos projetos d
 - Python 3.x
 - Executado em ambiente local (Termux/Android)
 
+## 🗂️ Estrutura do Repositório
+
+📁 exerciopy/
+├── solucoespy/ # Scripts com soluções para problemas cotidianos
+│ ├── arquivo1.py
+│ ├── arquivo2.py
+│ └── arquivo3.py
+├── outros_arquivos.py
+└── README.md
+
 ## 🚀 Como usar
 
 1. Clone o repositório:
@@ -25,5 +35,6 @@ Este repositório reúne meus exercícios de programação e pequenos projetos d
    python nome_do_arquivo.py
 ## 📌 Objetivo
 Este repositório é parte do meu aprendizado contínuo em programação. Estou estudando Python para resolver problemas reais e me preparar para projetos maiores no futuro.
+
 
 Feito com 📱 no Termux por SamuelDevbr
